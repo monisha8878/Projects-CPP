@@ -1,5 +1,5 @@
 # Projects-CPP
-Contains my c++ projects and learning
+
 This repository contains all my C++ practice code, challenges, and notes from a Udemy course I followed to build a strong foundation in C++. It spans topics from basic syntax to object-oriented programming and pointers, structured neatly according to course sections.
 
 ---
