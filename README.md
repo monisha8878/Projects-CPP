@@ -15,6 +15,7 @@ This repository contains all my C++ practice code, challenges, and notes from a 
 Folder Structure
 
 Each folder corresponds to a section or topic in the course. Examples, mini-projects, and exercises are included wherever applicable.
+I have also included the programs and notes provided by the course. 
 
 --- 
 Topics Covered
